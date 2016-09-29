@@ -1,2 +1,2 @@
 # kdtree
-kd tree
+A implementation of kd tree
